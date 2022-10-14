@@ -27,6 +27,6 @@
     <string name="choose_from_gallery">Choose From Gallery</string>
     <string name="choose_from_camera">Choose From Camera</string>
     <string name="undo">Undo</string>
-    <string name="erase">Erase</string>
+    <string name="erase">Eraser</string>
 
 </resources>
