@@ -25,6 +25,6 @@
     <string name="choose_from_gallery">Choisir depuis la gallerie</string>
     <string name="choose_from_camera">Prendre avec l\'App. Photo</string>
     <string name="undo">Annuler</string>
-    <string name="erase">Effacer</string>
+    <string name="erase">Gomme</string>
 
 </resources>
